@@ -3,6 +3,7 @@ Packing list
 - shoes
 - coat
 - camera
+- backpack
 
 Picnic
 ---------
